@@ -1,0 +1,31 @@
+.carousel-item img {
+	opacity: 0.6;
+}
+
+.person {
+	padding-top: 2rem;
+}
+
+.carousel-inner {
+	max-height: 500px;
+}
+
+.divider {
+	margin: 5rem 0;
+}
+
+p.lead {
+	text-align: justify;
+}
+
+.pr-3 {
+	padding-right: 3rem !important;
+}
+
+.mt-5 {
+	margin-top: 5rem !important;
+}
+
+.align-center {
+	text-align: center;
+}
